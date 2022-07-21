@@ -1,0 +1,4 @@
+APP STARTED
+authentication token acquired for deviantart:664162adae50328bc4127bb499a1c2d9e7bb5bbc537b098843
+refresh token acquired for deviantart:a0c848d4ef74c95e837e4a2627ac85688a298b20
+APP ENDED
